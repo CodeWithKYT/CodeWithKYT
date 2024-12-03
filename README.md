@@ -2,7 +2,7 @@ Hi there~ 👋
 
 ## Welcome to **CodeWithKYT**
 
-Feel free to explore my repositories and reach out if you'd like to collaborate or have a chat!
+Feel free to explore my [repositories](https://github.com/orgs/kyt-workspace/repositories) and reach out if you'd like to collaborate or have a chat!
 
 ##
 *This README is a work in progress — stay tuned for updates!* 
